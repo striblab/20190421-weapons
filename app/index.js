@@ -110,8 +110,8 @@ chart1.render();
 
 mapboxgl.accessToken = 'pk.eyJ1Ijoic2hhZG93ZmxhcmUiLCJhIjoiS3pwY1JTMCJ9.pTSXx_LFgR3XBpCNNxWPKA';
 
-var dzoom = 10.5;
-var mzoom = 10.5;
+var dzoom = 11.5;
+var mzoom = 11.5;
 var center = [-93.265015, 44.977753];
 
 var map = new mapboxgl.Map({
