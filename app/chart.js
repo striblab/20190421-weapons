@@ -75,7 +75,7 @@ class Chart {
                         left: 0
                     },
                     type: 'category',
-                    categories: ['Semi-automatic Pistol','Revolver','Rifle','Shotgun','Derringer'],
+                    categories: ['Semi-automatic pistol','Revolver','Rifle','Shotgun','Derringer'],
                     tick: {
                         multiline: false
                     }
